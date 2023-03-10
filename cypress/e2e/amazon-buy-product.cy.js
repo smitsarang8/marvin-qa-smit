@@ -1,7 +1,7 @@
 describe('Amazon test case smit sarang', () => {
   let data;
-  let wholePrice = 499.00;
-  let qty = 1;
+  let wholePrice;
+  let qty;
   let subTotalOnUi;
 
   before(function () {
